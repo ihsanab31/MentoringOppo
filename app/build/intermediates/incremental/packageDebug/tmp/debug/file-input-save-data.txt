@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Fri May 25 17:29:06 ICT 2018
+7.path=lib/arm64-v8a/libimagepipeline.so
+2.base=E\:\\OppoMonitoring\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+5.set=ASSET
+0.path=lib/x86/libimagepipeline.so
+2.baseType=DIRECTORY
+3.base=E\:\\OppoMonitoring\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+7.baseType=DIRECTORY
+2.set=NATIVE_RESOURCE
+1.path=classes.dex
+4.base=E\:\\OppoMonitoring\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+7.set=NATIVE_RESOURCE
+count=8
+5.baseType=DIRECTORY
+2.path=lib/armeabi/libimagepipeline.so
+5.base=E\:\\OppoMonitoring\\app\\build\\intermediates\\assets\\debug
+4.set=DEX
+3.path=lib/x86_64/libimagepipeline.so
+6.base=E\:\\OppoMonitoring\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.baseType=DIRECTORY
+1.set=DEX
+4.path=classes.dex
+7.base=E\:\\OppoMonitoring\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=fonts/Roboto-Medium.ttf
+0.base=E\:\\OppoMonitoring\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=lib/armeabi-v7a/libimagepipeline.so
+1.base=E\:\\OppoMonitoring\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE

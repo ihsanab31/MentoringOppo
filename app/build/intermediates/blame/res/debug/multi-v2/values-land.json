@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\OppoMonitoring\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\iihsa\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-3.4.0.aar\\0772b9be80b7d9a26424e46dc82426cf\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,120,183,245,315,367,421,472,532,593,653",
+                        "endColumns": "64,62,61,69,51,53,50,59,60,59,56",
+                        "endOffsets": "115,178,240,310,362,416,467,527,588,648,705"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "328,393,456,518,588,640,694,745,805,866,926",
+                        "endColumns": "64,62,61,69,51,53,50,59,60,59,56",
+                        "endOffsets": "388,451,513,583,635,689,740,800,861,921,978"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\iihsa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\495267c4cde308ef16a532bd46d3c035\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\iihsa\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\0e2c3ad7bbe7616b2f534da4cb22e948\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "983",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "1160"
+                    }
+                }
+            ]
+        }
+    ]
+}

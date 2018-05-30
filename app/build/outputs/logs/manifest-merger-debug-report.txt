@@ -1,0 +1,354 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:2:1-77:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0e2c3ad7bbe7616b2f534da4cb22e948\AndroidManifest.xml:17:1-22:12
+MERGED from [com.pixplicity.letterpress:library:1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\library-1.0.aar\dab865144ab914b8fc1ea5ed48b0c2f5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\495267c4cde308ef16a532bd46d3c035\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\279e428572a0325dcc3207b7daf3eecb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\c3f0a9c71761e7605bf71f32c338b58f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\4fed45c41999f94f0908d677e392e93a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\0c696b274a11dc845545a554fb5eb902\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fresco:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\fresco-1.5.0.aar\6cdb0860604ab74eb6bb4690d349b38f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\3e175ceb6af9894e23e9621084f1f8e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\dad97944423714089fe192a3eeeee5d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f73c173d9b24851ad6f27e3afe5eae4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e1d45b5d4ff7b4cdb7027170280882b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\b539272dafd39df8671df46e920bd532\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.jd-alexander:library:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\library-1.1.0.aar\23d31cd787348675328b3f3a7ef4b97a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\01c9cb396f0eb97eca3f29bd8a942604\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7f9ce909cbcad435344ee8ff7b4a3537\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\e425734ed367937fadd008cc2260daee\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\bc938c2f6aedde06422a552baa50f3c1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\69c27ec2165b16af9261dd649a2cae91\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\97f27da593a1bfe077a4be142b4c398a\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\6b13d35b351225bf62e8c8c183bf75cc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\0772b9be80b7d9a26424e46dc82426cf\AndroidManifest.xml:17:1-30:12
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\compressor-2.1.0.aar\3ee49ab1afd3f12ccf07a507616aec61\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\permissionsdispatcher-3.0.1.aar\868535d2a0ac853bc974ded90573ba3a\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\e2aedf6115a10e5266bfb4eda0f3804b\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7662f0f3e6ea3dce2ba80d5cdf6ed4f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e00ecf392fdb01518d10d7aa6b06da9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1a98d7ed7fef87b52d89348a4d8b0349\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\bfc86e92d0b27a0b08055f58b2fe64a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c87bddae7e7aa9434613474ed3873509\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\603d6451062c0cbf236f2f83fe2ab8f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:drawee:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\drawee-1.5.0.aar\3fe21a60f7e0d968a2423c99682165b7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.5.0.aar\a81d4397278a7819982bb003e5a3b302\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.5.0.aar\061a3b570e6fb9e5ba39444a9344b341\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\fbcore-1.5.0.aar\a095efac969b15fcb871037f52964ea2\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c130a29ad3bdf30f72d7e198264dab83\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bc1f75038551aaabf05e0b703dfbbd7c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a02b16adc4daa3a804b2170265b87048\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5bcefb2633f85eee1d65235100f976ee\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+		INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:2:1-77:12
+		INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:2:1-77:12
+		INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.INTERNET
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\01c9cb396f0eb97eca3f29bd8a942604\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\01c9cb396f0eb97eca3f29bd8a942604\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CAMERA
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:13:5-75:19
+MERGED from [com.pixplicity.letterpress:library:1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\library-1.0.aar\dab865144ab914b8fc1ea5ed48b0c2f5\AndroidManifest.xml:11:5-20
+MERGED from [com.pixplicity.letterpress:library:1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\library-1.0.aar\dab865144ab914b8fc1ea5ed48b0c2f5\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\279e428572a0325dcc3207b7daf3eecb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\279e428572a0325dcc3207b7daf3eecb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\c3f0a9c71761e7605bf71f32c338b58f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\c3f0a9c71761e7605bf71f32c338b58f\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\b539272dafd39df8671df46e920bd532\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\b539272dafd39df8671df46e920bd532\AndroidManifest.xml:7:5-20
+MERGED from [com.github.jd-alexander:library:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\library-1.1.0.aar\23d31cd787348675328b3f3a7ef4b97a\AndroidManifest.xml:11:5-20
+MERGED from [com.github.jd-alexander:library:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\library-1.1.0.aar\23d31cd787348675328b3f3a7ef4b97a\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\01c9cb396f0eb97eca3f29bd8a942604\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\01c9cb396f0eb97eca3f29bd8a942604\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7f9ce909cbcad435344ee8ff7b4a3537\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7f9ce909cbcad435344ee8ff7b4a3537\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\e425734ed367937fadd008cc2260daee\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\e425734ed367937fadd008cc2260daee\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\bc938c2f6aedde06422a552baa50f3c1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\bc938c2f6aedde06422a552baa50f3c1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\69c27ec2165b16af9261dd649a2cae91\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\69c27ec2165b16af9261dd649a2cae91\AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\6b13d35b351225bf62e8c8c183bf75cc\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\6b13d35b351225bf62e8c8c183bf75cc\AndroidManifest.xml:9:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\0772b9be80b7d9a26424e46dc82426cf\AndroidManifest.xml:28:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\0772b9be80b7d9a26424e46dc82426cf\AndroidManifest.xml:28:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\e2aedf6115a10e5266bfb4eda0f3804b\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\e2aedf6115a10e5266bfb4eda0f3804b\AndroidManifest.xml:7:5-11:19
+	android:supportsRtl
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:14:9-37
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:21:9-23:47
+	android:value
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:22:13-58
+meta-data#com.google.android.gms.version
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:24:9-26:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\69c27ec2165b16af9261dd649a2cae91\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\69c27ec2165b16af9261dd649a2cae91\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\e2aedf6115a10e5266bfb4eda0f3804b\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\e2aedf6115a10e5266bfb4eda0f3804b\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:26:13-66
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:25:13-58
+activity#com.ofal.ihsan.oppomonitoring.view.activity.MainActivity
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:28:9-31:52
+	android:screenOrientation
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:31:13-49
+	android:noHistory
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:29:13-55
+activity#com.ofal.ihsan.oppomonitoring.view.activity.FingerPrintActivity
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:32:9-35:52
+	android:screenOrientation
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:35:13-49
+	android:noHistory
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:33:13-62
+activity#com.ofal.ihsan.oppomonitoring.view.activity.LoginActivity
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:36:9-39:52
+	android:screenOrientation
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:39:13-49
+	android:noHistory
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:37:13-56
+activity#com.ofal.ihsan.oppomonitoring.view.activity.SplashScreenActivity
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:40:9-49:20
+	android:screenOrientation
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:43:13-49
+	android:noHistory
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:41:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:47:27-74
+activity#com.ofal.ihsan.oppomonitoring.view.activity.MenuAdminActivity
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:50:9-52:40
+	android:noHistory
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:51:13-60
+activity#com.ofal.ihsan.oppomonitoring.view.activity.ListMonitorActivity
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:53:9-55:40
+	android:noHistory
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:54:13-62
+activity#com.ofal.ihsan.oppomonitoring.view.activity.GeoActivity
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:56:9-58:40
+	android:noHistory
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:57:13-54
+activity#com.ofal.ihsan.oppomonitoring.view.activity.DetailActivity
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:59:9-61:40
+	android:noHistory
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:60:13-57
+service#com.ofal.ihsan.oppomonitoring.util.service.PeringatanService
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:63:9-66:38
+	android:enabled
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:65:13-35
+	android:exported
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:66:13-36
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:64:13-59
+receiver#com.ofal.ihsan.oppomonitoring.util.receiver.BootReceiver
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:67:9-73:20
+	android:enabled
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:69:13-35
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:68:13-55
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:70:13-72:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:71:17-78
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:71:25-76
+receiver#com.ofal.ihsan.oppomonitoring.util.receiver.AlarmReceiver
+ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:74:9-64
+	android:name
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml:74:19-62
+uses-sdk
+INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0e2c3ad7bbe7616b2f534da4cb22e948\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0e2c3ad7bbe7616b2f534da4cb22e948\AndroidManifest.xml:20:5-44
+MERGED from [com.pixplicity.letterpress:library:1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\library-1.0.aar\dab865144ab914b8fc1ea5ed48b0c2f5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pixplicity.letterpress:library:1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\library-1.0.aar\dab865144ab914b8fc1ea5ed48b0c2f5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\495267c4cde308ef16a532bd46d3c035\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\495267c4cde308ef16a532bd46d3c035\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\279e428572a0325dcc3207b7daf3eecb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\279e428572a0325dcc3207b7daf3eecb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\c3f0a9c71761e7605bf71f32c338b58f\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\c3f0a9c71761e7605bf71f32c338b58f\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\4fed45c41999f94f0908d677e392e93a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\4fed45c41999f94f0908d677e392e93a\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\0c696b274a11dc845545a554fb5eb902\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\0c696b274a11dc845545a554fb5eb902\AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fresco:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\fresco-1.5.0.aar\6cdb0860604ab74eb6bb4690d349b38f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\fresco-1.5.0.aar\6cdb0860604ab74eb6bb4690d349b38f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\3e175ceb6af9894e23e9621084f1f8e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\3e175ceb6af9894e23e9621084f1f8e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\dad97944423714089fe192a3eeeee5d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\dad97944423714089fe192a3eeeee5d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f73c173d9b24851ad6f27e3afe5eae4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f73c173d9b24851ad6f27e3afe5eae4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e1d45b5d4ff7b4cdb7027170280882b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e1d45b5d4ff7b4cdb7027170280882b4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\b539272dafd39df8671df46e920bd532\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\b539272dafd39df8671df46e920bd532\AndroidManifest.xml:5:5-44
+MERGED from [com.github.jd-alexander:library:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\library-1.1.0.aar\23d31cd787348675328b3f3a7ef4b97a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jd-alexander:library:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\library-1.1.0.aar\23d31cd787348675328b3f3a7ef4b97a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\01c9cb396f0eb97eca3f29bd8a942604\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\01c9cb396f0eb97eca3f29bd8a942604\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7f9ce909cbcad435344ee8ff7b4a3537\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7f9ce909cbcad435344ee8ff7b4a3537\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\e425734ed367937fadd008cc2260daee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\e425734ed367937fadd008cc2260daee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\bc938c2f6aedde06422a552baa50f3c1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\bc938c2f6aedde06422a552baa50f3c1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\69c27ec2165b16af9261dd649a2cae91\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\69c27ec2165b16af9261dd649a2cae91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\97f27da593a1bfe077a4be142b4c398a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\97f27da593a1bfe077a4be142b4c398a\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\6b13d35b351225bf62e8c8c183bf75cc\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\6b13d35b351225bf62e8c8c183bf75cc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\0772b9be80b7d9a26424e46dc82426cf\AndroidManifest.xml:22:5-24:41
+MERGED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\0772b9be80b7d9a26424e46dc82426cf\AndroidManifest.xml:22:5-24:41
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\compressor-2.1.0.aar\3ee49ab1afd3f12ccf07a507616aec61\AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\compressor-2.1.0.aar\3ee49ab1afd3f12ccf07a507616aec61\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\permissionsdispatcher-3.0.1.aar\868535d2a0ac853bc974ded90573ba3a\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\permissionsdispatcher-3.0.1.aar\868535d2a0ac853bc974ded90573ba3a\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\e2aedf6115a10e5266bfb4eda0f3804b\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\e2aedf6115a10e5266bfb4eda0f3804b\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7662f0f3e6ea3dce2ba80d5cdf6ed4f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7662f0f3e6ea3dce2ba80d5cdf6ed4f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e00ecf392fdb01518d10d7aa6b06da9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e00ecf392fdb01518d10d7aa6b06da9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1a98d7ed7fef87b52d89348a4d8b0349\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1a98d7ed7fef87b52d89348a4d8b0349\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\bfc86e92d0b27a0b08055f58b2fe64a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\bfc86e92d0b27a0b08055f58b2fe64a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c87bddae7e7aa9434613474ed3873509\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c87bddae7e7aa9434613474ed3873509\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\603d6451062c0cbf236f2f83fe2ab8f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\603d6451062c0cbf236f2f83fe2ab8f0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:drawee:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\drawee-1.5.0.aar\3fe21a60f7e0d968a2423c99682165b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\drawee-1.5.0.aar\3fe21a60f7e0d968a2423c99682165b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.5.0.aar\a81d4397278a7819982bb003e5a3b302\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.5.0.aar\a81d4397278a7819982bb003e5a3b302\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.5.0.aar\061a3b570e6fb9e5ba39444a9344b341\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.5.0.aar\061a3b570e6fb9e5ba39444a9344b341\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\fbcore-1.5.0.aar\a095efac969b15fcb871037f52964ea2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\fbcore-1.5.0.aar\a095efac969b15fcb871037f52964ea2\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c130a29ad3bdf30f72d7e198264dab83\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c130a29ad3bdf30f72d7e198264dab83\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bc1f75038551aaabf05e0b703dfbbd7c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bc1f75038551aaabf05e0b703dfbbd7c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a02b16adc4daa3a804b2170265b87048\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a02b16adc4daa3a804b2170265b87048\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5bcefb2633f85eee1d65235100f976ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5bcefb2633f85eee1d65235100f976ee\AndroidManifest.xml:20:5-44
+INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+		INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+		ADDED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+		INJECTED from E:\OppoMonitoring\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\01c9cb396f0eb97eca3f29bd8a942604\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\01c9cb396f0eb97eca3f29bd8a942604\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\01c9cb396f0eb97eca3f29bd8a942604\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\01c9cb396f0eb97eca3f29bd8a942604\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\01c9cb396f0eb97eca3f29bd8a942604\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7f9ce909cbcad435344ee8ff7b4a3537\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7f9ce909cbcad435344ee8ff7b4a3537\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7f9ce909cbcad435344ee8ff7b4a3537\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7f9ce909cbcad435344ee8ff7b4a3537\AndroidManifest.xml:24:13-79
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\0772b9be80b7d9a26424e46dc82426cf\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\0772b9be80b7d9a26424e46dc82426cf\AndroidManifest.xml:26:22-63

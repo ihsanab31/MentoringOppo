@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".view.activity.DetailActivity">
+
+    <include layout="@layout/header_admin" />
+
+    <fragment
+        android:id="@+id/map_detail"
+        class="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen160dp" />
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen130dp"
+        android:orientation="vertical"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="@dimen/small_margin"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="8"
+            android:gravity="center"
+            android:padding="@dimen/dimen10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txt_nik_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/default_nik"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text16sp" />
+
+            <TextView
+                android:id="@+id/txt_nama_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/default_name"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text16sp" />
+
+            <TextView
+                android:id="@+id/txt_tanggal_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/default_date"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text16sp" />
+
+            <TextView
+                android:id="@+id/txt_alamat_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/default_alamat"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text16sp" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <Button
+        android:id="@+id/btn_selesai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="@string/selesai" />
+</LinearLayout>
