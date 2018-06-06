@@ -32,7 +32,7 @@ public class Constant {
     public static int success = 0;
     public static final String TAG_SUCCESS="success";
     public static final String TAG_MESSAGE="message";
-    public static final int[] ALARM_HOUR_TIME = {11, 11, 11,11,11};
-    public static final int[] ALARM_MINUTE_TIME = {43, 44, 56, 57,58};
+    public static final int[] ALARM_HOUR_TIME = {9, 9, 9,10,10};
+    public static final int[] ALARM_MINUTE_TIME = {12, 20, 40, 10, 30};
 
 }
